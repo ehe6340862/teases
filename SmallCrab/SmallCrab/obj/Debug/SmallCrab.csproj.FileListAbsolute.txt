@@ -1,0 +1,13 @@
+C:\work\workspace\SmallCrab\SmallCrab\bin\Debug\SmallCrab.exe.config
+C:\work\workspace\SmallCrab\SmallCrab\bin\Debug\SmallCrab.exe
+C:\work\workspace\SmallCrab\SmallCrab\bin\Debug\SmallCrab.pdb
+C:\work\workspace\SmallCrab\SmallCrab\obj\Debug\SmallCrab.Main.resources
+C:\work\workspace\SmallCrab\SmallCrab\obj\Debug\SmallCrab.Properties.Resources.resources
+C:\work\workspace\SmallCrab\SmallCrab\obj\Debug\SmallCrab.csproj.GenerateResource.Cache
+C:\work\workspace\SmallCrab\SmallCrab\obj\Debug\SmallCrab.exe
+C:\work\workspace\SmallCrab\SmallCrab\obj\Debug\SmallCrab.pdb
+C:\work\workspace\SmallCrab\SmallCrab\bin\Debug\SmallCrab.exe.manifest
+C:\work\workspace\SmallCrab\SmallCrab\bin\Debug\SmallCrab.application
+C:\work\workspace\SmallCrab\SmallCrab\obj\Debug\SmallCrab.exe.manifest
+C:\work\workspace\SmallCrab\SmallCrab\obj\Debug\SmallCrab.application
+C:\work\workspace\SmallCrab\SmallCrab\obj\Debug\SmallCrab.csprojResolveAssemblyReference.cache
